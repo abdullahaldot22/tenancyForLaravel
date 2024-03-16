@@ -5,7 +5,7 @@ with **Tenancy For Laravel** *(Separate Database for Each Tenant)* & Spatie **La
 <br>
 Clone the git to deploy at your localhost 
 ```bash
-git clone [git url]
+git clone https://github.com/abdullahaldot22/tenancyForLaravel.git
 ```
 Copy all the code of `.env.example` & pest in newly created `.env` file. 
 
