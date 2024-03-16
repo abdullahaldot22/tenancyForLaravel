@@ -8,7 +8,7 @@ git clone https://github.com/abdullahaldot22/tenancyForLaravel.git
 ```
 Copy all the code of `.env.example` & pest in newly created `.env` file. 
 
-Now, create a mysql local database named **tenancyforlaravel**. *(Default)*
+Now, create a mysql local database named **tenancyforlaravel**. *(Default)* <br>
 **Open terminal** in the project directory.
 ```bash
 npm install
