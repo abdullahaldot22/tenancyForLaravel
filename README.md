@@ -44,4 +44,5 @@ Password :
 ```text
 Pa$$w0rd!
 ```
+If you want to create new landlord, you have to go through registration. & For tenant you have to create it through landlord by default there wont be any tenant available.
 
