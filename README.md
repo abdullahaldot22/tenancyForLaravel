@@ -57,7 +57,7 @@ Password :
 ```text
 Pa$$w0rd!
 ```
-After reset, the tenants user (admin) password will be set:
+After **reset**, the tenants user (admin) password will be set:
 ```number
 123456
 ```
