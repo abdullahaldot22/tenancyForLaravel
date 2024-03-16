@@ -17,17 +17,20 @@ npm install
 ```bash
 composer update
 ```
-<br/>
+<br>
+
 If you want, you can generate a new key with 
 ```bash
 php artisan key:generate
 ```
-<br/>
+<br>
+
 Run the command for migrate table and seed the database
 ```bash
 php artisan migrate --seed
 ```
-<br/>
+<br>
+
 Now, fire up 2 terminal or 2 terminal tab & run each command separately 
 ```bash
 npm run dev
@@ -35,12 +38,14 @@ npm run dev
 ```bash
 php artisan serve
 ```
-<br/>
+<br>
+
 Now, open and search in browser with url
 ```
 http:\\localhost:8000
 ```
-<br/>
+<br>
+
 The default created credential for first **Super-admin** *(Landlord)* and all the **Tenants** first **Admin** <br>
 E-mail :
 ```mail
@@ -50,6 +55,7 @@ Password :
 ```text
 Pa$$w0rd!
 ```
-<br/><br/>
+<br><br>
+
 If you want to create new landlord, you have to go through registration. & For tenant you have to create it through landlord by default there wont be any tenant available.
 
