@@ -63,6 +63,6 @@ After **reset**, the tenants user (admin) password will be set:
 123456
 ```
 <br>
-> [!Note]
+> [!NOTE]
 > If you want to create new landlord, you have to go through registration. & For tenant you have to create it through landlord by default there wont be any tenant available.
 
