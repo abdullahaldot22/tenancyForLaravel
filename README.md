@@ -6,44 +6,44 @@ with **Tenancy For Laravel** *(Separate Database for Each Tenant)* & Spatie **La
 <br>
 
 Clone the git to deploy at your localhost 
-```bash
+```shell
 git clone https://github.com/abdullahaldot22/tenancyForLaravel.git
 ```
 Copy all the code of `.env.example` & pest in newly created `.env` file. 
 
 Now, create a mysql local database named **tenancyforlaravel**. *(Default)* <br><br/>
 **Open terminal** in the project directory.
-```bash
+```shell
 npm install
 ```
-```bash
+```shell
 composer update
 ```
 <br>
 
 If you want, you can generate a new key with 
-```bash
+```shell
 php artisan key:generate
 ```
 <br>
 
 Run the command for migrate table and seed the database
-```bash
+```shell
 php artisan migrate --seed
 ```
 <br>
 
 Now, fire up 2 terminal or 2 terminal tab & run each command separately 
-```bash
+```shell
 npm run dev
 ```
-```bash
+```shell
 php artisan serve
 ```
 <br>
 
 Now, open and search in browser with url
-```
+```url
 http:\\localhost:8000
 ```
 <br>
@@ -54,11 +54,11 @@ E-mail :
 a@b.com
 ```
 Password :
-```text
+```string
 Pa$$w0rd!
 ```
 After **reset**, the tenants user (admin) password will be set:
-```number
+```string
 123456
 ```
 <br><br>
