@@ -34,7 +34,7 @@ php artisan migrate --seed
 ```
 <br>
 
-Now, fire up 2 terminal or 2 terminal tab & run each command separately 
+Now, fire up 2 terminal window or 2 terminal tab & run each command separately 
 ```shell
 npm run dev
 ```
