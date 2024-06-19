@@ -6,7 +6,7 @@ with **Tenancy For Laravel** *(Separate Database for Each Tenant)* & Spatie **La
 <br>
 <br>
 
-Clone the git to deploy at your localhost 
+Clone the git repo to deploy at your localhost 
 ```shell
 git clone https://github.com/abdullahaldot22/tenancyForLaravel.git
 ```
