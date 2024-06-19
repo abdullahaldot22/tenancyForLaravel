@@ -49,7 +49,7 @@ http:\\localhost:8000
 ```
 <br>
 
-The default created credential for first **Super-admin** *(Landlord)* and all the **Tenants** first **Admin** <br>
+The default created credential for first **Super-admin** *(Landlord)* and all the **Tenant's** first **Admin** <br>
 E-mail :
 ```mail
 a@b.com
